@@ -1,5 +1,5 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(21, 136, 6);
 }
 
 .Tittle {
@@ -9,7 +9,11 @@ body {
     color: white;
 }
 
-.details_Form 
+.details_Form {
+    background-color: white;
+    padding: 10px;
+    margin: 10px 270px;
+}
 
 label{
     color: red;
@@ -36,3 +40,10 @@ input{
     color: white;
     border: 0px;
 }
+
+.Text{
+    text-align: center;
+    color: white;
+}
+
+
